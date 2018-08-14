@@ -5,3 +5,9 @@ We give a photo from our camera roll, then we select a design to combine both th
 
 The **_style_** of a painting is: the way the painter used brush strokes; how these strokes form objects; texture of objects; color palette used.
 The **_content_** of the image is what objects are present in this image (person, face, dog, eyes, etc.) and their relationships in space.
+
+### Pre-requisites
+- Pre-trained VGG19 network
+- TensorFlow (v 1.9.0)
+- Numpy & Scipy
+- Pillow or PIL (Python Imaging Library) – library for image manipulation
