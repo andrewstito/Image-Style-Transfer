@@ -13,3 +13,6 @@ The **_content_** of the image is what objects are present in this image (person
 - [Numpy](https://github.com/numpy/numpy/blob/master/INSTALL.rst.txt) 
 - [Scipy](https://github.com/scipy/scipy/blob/master/INSTALL.rst.txt)
 - [Pillow or PIL (Python Imaging Library)](http://pillow.readthedocs.io/en/3.3.x/installation.html#installation)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](./ file for details
