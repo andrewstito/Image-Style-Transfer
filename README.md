@@ -18,3 +18,9 @@ The **_content_** of the image is what objects are present in this image (person
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details
+
+## Acknowledgements
+- [Anish Athalye : Implementation of Neural Style in TensorFlow](https://github.com/anishathalye/neural-style)
+- [Leon A. Gatys, Alexander S. Ecker, Matthias Bethge : A Neural Algorithm of Artistic Style](https://github.com/leongatys/fast-neural-style)
+- [Justin Johnson, Alexandre Alahi, Li Fei-Fei : Perceptual losses for real-time style transfer and super-resolution](https://github.com/jcjohnson/fast-neural-style)
+- [Logan Engstrom : Fast Style Transfer](https://github.com/lengstrom/fast-style-transfer/)
