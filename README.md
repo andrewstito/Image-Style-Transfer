@@ -9,7 +9,7 @@ The **_content_** of the image is what objects are present in this image (person
 ### Pre-requisites
 - [Pre-trained VGG19 network](http://www.vlfeat.org/matconvnet/models/beta16/imagenet-vgg-verydeep-19.mat) 
     _(VGG19 – a 19 weight layer network, is trained on a subset of the ImageNet database, which consists of more than a million images and can classify images into many object categories. (Developed and trained by Oxford's renowned Visual Geometry Group)_
-- [TensorFlow (v 1.9.0)] (https://www.tensorflow.org/install/#download-and-setup)
+- [TensorFlow v1.9.0](https://www.tensorflow.org/install/#download-and-setup)
 - [Numpy](https://github.com/numpy/numpy/blob/master/INSTALL.rst.txt) 
 - [Scipy](https://github.com/scipy/scipy/blob/master/INSTALL.rst.txt)
 - [Pillow or PIL (Python Imaging Library)](http://pillow.readthedocs.io/en/3.3.x/installation.html#installation)
