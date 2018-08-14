@@ -15,4 +15,4 @@ The **_content_** of the image is what objects are present in this image (person
 - [Pillow or PIL (Python Imaging Library)](http://pillow.readthedocs.io/en/3.3.x/installation.html#installation)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](./ file for details
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details
