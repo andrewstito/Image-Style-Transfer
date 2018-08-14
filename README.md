@@ -16,12 +16,12 @@ The **_content_** of the image is what objects are present in this image (person
 - [Scipy](https://github.com/scipy/scipy/blob/master/INSTALL.rst.txt)
 - [Pillow or PIL (Python Imaging Library)](http://pillow.readthedocs.io/en/3.3.x/installation.html#installation)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details
-
 ## Acknowledgements
 - [Leon A. Gatys, Alexander S. Ecker, Matthias Bethge : A Neural Algorithm of Artistic Style](https://github.com/leongatys/fast-neural-style)
 - [Justin Johnson, Alexandre Alahi, Li Fei-Fei : Perceptual losses for real-time style transfer and super-resolution](https://github.com/jcjohnson/fast-neural-style)
 - [Anish Athalye : Neural style in TensorFlow!](https://github.com/anishathalye/neural-style)
 - [Logan Engstrom : TensorFlow CNN for fast style transfer](https://github.com/lengstrom/fast-style-transfer/)
 - [Cameron Smith : TensorFlow (Python API) implementation of Neural Style ](https://github.com/cysmith/neural-style-tf)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details
