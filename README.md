@@ -7,7 +7,9 @@ The **_style_** of a painting is: the way the painter used brush strokes; how th
 The **_content_** of the image is what objects are present in this image (person, face, dog, eyes, etc.) and their relationships in space.
 
 ### Pre-requisites
-- Pre-trained VGG19 network
+- Pre-trained VGG19 network 
+_(VGG19 – a 19 weight layer network, is trained on a subset of the ImageNet database, which consists of more than a million images and can classify images into many object categories. (Developed and trained by Oxford's renowned Visual Geometry Group)_
+
 - TensorFlow (v 1.9.0)
 - Numpy & Scipy
 - Pillow or PIL (Python Imaging Library) – library for image manipulation
